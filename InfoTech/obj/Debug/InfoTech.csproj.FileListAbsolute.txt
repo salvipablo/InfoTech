@@ -1,0 +1,11 @@
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\bin\Debug\InfoTech.exe.config
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\bin\Debug\InfoTech.exe
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\bin\Debug\InfoTech.pdb
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.csprojAssemblyReference.cache
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.Form1.resources
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.Properties.Resources.resources
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.csproj.GenerateResource.cache
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.csproj.CoreCompileInputs.cache
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.exe
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.pdb
+C:\Users\psalvi\source\repos\InfoTech\InfoTech\obj\Debug\InfoTech.frmMain.resources
